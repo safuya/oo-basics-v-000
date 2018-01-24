@@ -1,4 +1,4 @@
-class shoe
+class Shoe
   attr_reader :brand
 
   def initialize(brand)
